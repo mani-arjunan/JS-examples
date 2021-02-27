@@ -1,1 +1,1 @@
-*Simple JS programs and patterns
+#Simple JS programs and patterns
